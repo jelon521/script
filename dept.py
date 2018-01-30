@@ -32,6 +32,9 @@ for row in range(1, nrows):
 
 f.close()
 
+
+
+
 # print table.row_values(1)
 # # 获取一行的数值
 # print table.col_values(1)

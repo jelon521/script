@@ -2,4 +2,4 @@
 
 def println():
 	print '\n'
-	ptinppp
+	print 

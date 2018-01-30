@@ -30,6 +30,15 @@ for row in range(1, nrows):
     f.write(write_line + '\n')
 
 
+
+
+
+
+
+
+
+
+
 f.close()
 
 # print table.row_values(1)

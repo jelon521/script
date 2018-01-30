@@ -2,3 +2,4 @@
 
 def println():
 	print '\n'
+	print 
